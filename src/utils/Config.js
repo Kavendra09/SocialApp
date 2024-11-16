@@ -1,0 +1,3 @@
+export const Supabase_url = 'https://kjvylsntklxspudekoxy.supabase.co';
+export const Supabase_key =
+  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imtqdnlsc250a2x4c3B1ZGVrb3h5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzE1OTgwOTAsImV4cCI6MjA0NzE3NDA5MH0.0xxxq_sKuexhvTEMYFUUdeX3uuiDKT7q1Jcd_HNvEWs';
